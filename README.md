@@ -1,7 +1,7 @@
 # Worldwide Twitter Trends | Twitter trending hashtags and topics
 Worldwide Twitter Trends | Twitter trending hashtags and topics
 
-https://twitter-trends-24.dmtechnolab.com/
+https://onlinetoolslab.com/twitter-trends.php
 
 Lets See What's Trending - Find WorldWide Twitter trending ### Hashtags at One place.
 
